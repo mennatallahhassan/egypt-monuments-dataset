@@ -1,1 +1,3 @@
-# egypt-monuments-dataset
+# Egypt Monuments Dataset
+
+# Paper reference
