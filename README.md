@@ -6,3 +6,8 @@
 <sup>1</sup> Faculty of Computers and Artificial Intelligence, Helwan University, <sup>2</sup> Faculty of Computer Science, Misr International University
 
 ![](https://github.com/mennatallahhassan/egypt-monuments-dataset/blob/main/overview.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mennatallahhassan/egypt-monuments-dataset/blob/main/overview.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mennatallahhassan/egypt-monuments-dataset/blob/main/overview.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/mennatallahhassan/egypt-monuments-dataset/blob/main/overview.png">
+</picture>
