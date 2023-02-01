@@ -5,5 +5,5 @@
 
 <sup>1</sup> Faculty of Computers and Artificial Intelligence, Helwan University, <sup>2</sup> Faculty of Computer Science, Misr International University
 
-![]([https://github.com/mennatallahhassan/egypt-monuments-dataset/blob/main/overview.png](https://github.com/mennatallahhassan/egypt-monuments-dataset/blob/main/overview-2.png)
+![](https://github.com/mennatallahhassan/egypt-monuments-dataset/blob/main/overview-2.png)
 
